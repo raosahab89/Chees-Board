@@ -1,0 +1,16 @@
+td { padding: 15px;
+width: 40px;}
+            
+.white { background-color: #fff;}
+
+.brown { background-color: #5a2222;}
+
+.rotate180 {rotate: 180deg;}
+
+p {font-family: 'Times New Roman', Times, serif
+    ; font-weight:bolder;
+text-align: center; color: #fff}
+
+table {border-collapse: collapse;}
+
+h1 {background-color:#a1c6ea; text-align: center;}
